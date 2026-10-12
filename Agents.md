@@ -14,6 +14,7 @@ This is a learning and research project for an electrical engineer with a PhD in
 - Record data provenance, units, parameter ranges, simulator settings,operating modes, and failed simulations.
 - Use primary papers and official documentation for technical claims.Verify current APIs before relying on unfamiliar functionality.
 - Never fabricate references, measurements, benchmark scores, or execution.
+- While documenting, always use vocabulary and contextin written form derived from PhD thesis from MIT, engineering level.
 
 ## Reproducibility and software
 
